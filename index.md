@@ -48,4 +48,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Maximizar $$z=x_1+x_2$$
 
-![Maths](mathematic.jpg)
+![Maths](mathematics.jpg)
