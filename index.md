@@ -36,3 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Enlaces
+
+-[Página de Python](https://www.python.org/)
+-[Página de Google](https://www.google.com/)
+-[Página de GitHub](https://github.com/argeanima)
