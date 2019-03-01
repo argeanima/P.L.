@@ -1,4 +1,4 @@
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 ## MATHS
 
 You can use the [editor on GitHub](https://github.com/argeanima/P.L./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
