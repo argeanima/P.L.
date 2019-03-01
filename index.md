@@ -47,3 +47,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ##Problemas
 
 Maximizar $$z=x_1+x_2$$
+
+![Maths](mathematic.jpg)
