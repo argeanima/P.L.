@@ -1,3 +1,4 @@
+<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 ## MATHS
 
 You can use the [editor on GitHub](https://github.com/argeanima/P.L./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -42,3 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -[Página de Python](https://www.python.org/)
 -[Página de Google](https://www.google.com/)
 -[Página de GitHub](https://github.com/argeanima)
+
+##Problemas
+
+Maximizar \(z=x_1+x_2\)
